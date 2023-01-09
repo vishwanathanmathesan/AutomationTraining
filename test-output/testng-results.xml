@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-06T11:06:50 IST" name="Suite" finished-at="2023-01-06T11:09:11 IST" duration-ms="141254">
+    <groups>
+    </groups>
+    <test started-at="2023-01-06T11:06:50 IST" name="Test" finished-at="2023-01-06T11:09:11 IST" duration-ms="141254">
+      <class name="com.testapplication.testbase.MainTest">
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:com.testapplication.testbase.MainTest@41fbdac4]" started-at="2023-01-06T11:06:50 IST" name="browserLaunch" finished-at="2023-01-06T11:07:30 IST" duration-ms="39858" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method signature="loginInValid()[pri:0, instance:com.testapplication.testbase.MainTest@41fbdac4]" started-at="2023-01-06T11:07:30 IST" name="loginInValid" finished-at="2023-01-06T11:07:49 IST" duration-ms="18578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginInValid -->
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:com.testapplication.testbase.MainTest@41fbdac4]" started-at="2023-01-06T11:07:49 IST" name="browserClose" finished-at="2023-01-06T11:07:50 IST" duration-ms="1233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:com.testapplication.testbase.MainTest@41fbdac4]" started-at="2023-01-06T11:07:50 IST" name="browserLaunch" finished-at="2023-01-06T11:08:24 IST" duration-ms="33963" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method signature="loginValid()[pri:0, instance:com.testapplication.testbase.MainTest@41fbdac4]" started-at="2023-01-06T11:08:24 IST" name="loginValid" finished-at="2023-01-06T11:08:43 IST" duration-ms="19468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginValid -->
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:com.testapplication.testbase.MainTest@41fbdac4]" started-at="2023-01-06T11:08:43 IST" name="browserClose" finished-at="2023-01-06T11:08:44 IST" duration-ms="679" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:com.testapplication.testbase.MainTest@41fbdac4]" started-at="2023-01-06T11:08:44 IST" name="browserLaunch" finished-at="2023-01-06T11:09:04 IST" duration-ms="20222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method signature="loginWithoutUser()[pri:0, instance:com.testapplication.testbase.MainTest@41fbdac4]" started-at="2023-01-06T11:09:04 IST" name="loginWithoutUser" finished-at="2023-01-06T11:09:11 IST" duration-ms="6338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithoutUser -->
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:com.testapplication.testbase.MainTest@41fbdac4]" started-at="2023-01-06T11:09:11 IST" name="browserClose" finished-at="2023-01-06T11:09:11 IST" duration-ms="755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- com.testapplication.testbase.MainTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
